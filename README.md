@@ -8,3 +8,6 @@ https://github.com/vanhoan310/tips/wiki/Linux
 
 3. Git
 https://github.com/vanhoan310/tips/wiki/Git
+
+4. Python
+https://github.com/vanhoan310/tips/wiki/Python
