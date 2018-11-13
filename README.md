@@ -20,3 +20,7 @@ https://unix.stackexchange.com/questions/265755/fedora-23-can-i-safely-delete-fi
 
 7. My phone
 https://www.techjunkie.com/samsung-galaxy-j7-problems-with-sound-solved/
+
+
+/home/vanhoan310/anaconda2/bin:/home/vanhoan310/anaconda2/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/home/vanhoan310/.local/bin:/home/vanhoan310/bin
+
