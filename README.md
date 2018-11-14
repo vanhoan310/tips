@@ -13,7 +13,7 @@ https://github.com/vanhoan310/tips/wiki/Git
 https://github.com/vanhoan310/tips/wiki/Python
 
 5. R
-http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf
+https://github.com/vanhoan310/tips/wiki/R
 
 6. Delete Fedora cache
 https://unix.stackexchange.com/questions/265755/fedora-23-can-i-safely-delete-files-in-var-cache-packagekit-metadata-updates
