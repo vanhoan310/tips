@@ -25,7 +25,7 @@ https://github.com/pachterlab/PROBer#example
 https://www.techjunkie.com/samsung-galaxy-j7-problems-with-sound-solved/
 
 8. Printing Fedora.
-Settings -> Printers -> Unlock -> Add -> Enter IP address (10.163.247.61) 
+Settings -> Printers -> Unlock -> Add -> Enter IP address (10.163.247.61) <br>
 Go to Print Settings -> Set new printer as default. Done!
 
 
