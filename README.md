@@ -32,6 +32,7 @@ Go to Print Settings -> Set new printer as default. Done!
 https://github.com/vanhoan310/tips/wiki/CPLEX
 
 10. Software install
+https://github.com/vanhoan310/tips/wiki/Software-install
 
 
 
