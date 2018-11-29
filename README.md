@@ -31,6 +31,9 @@ Go to Print Settings -> Set new printer as default. Done!
 9. CPLEX
 https://github.com/vanhoan310/tips/wiki/CPLEX
 
+10. Software install
+
+
 
 /home/vanhoan310/anaconda2/bin:/home/vanhoan310/anaconda2/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/home/vanhoan310/.local/bin:/home/vanhoan310/bin
 
