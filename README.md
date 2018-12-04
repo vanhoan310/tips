@@ -15,8 +15,8 @@ https://github.com/vanhoan310/tips/wiki/Python
 5. R
 https://github.com/vanhoan310/tips/wiki/R
 
-6. Delete Fedora cache
-https://unix.stackexchange.com/questions/265755/fedora-23-can-i-safely-delete-files-in-var-cache-packagekit-metadata-updates
+6. C++
+https://github.com/vanhoan310/tips/wiki/Cpp
 
 6. Documentation samples
 https://github.com/pachterlab/PROBer#example
@@ -34,8 +34,6 @@ https://github.com/vanhoan310/tips/wiki/CPLEX
 10. Software install
 https://github.com/vanhoan310/tips/wiki/Software-install
 
-11. C++
-https://github.com/vanhoan310/tips/wiki/Cpp
 
 
 
