@@ -39,5 +39,3 @@ https://github.com/vanhoan310/tips/wiki/Cpp
 
 
 
-/home/vanhoan310/anaconda2/bin:/home/vanhoan310/anaconda2/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/home/vanhoan310/.local/bin:/home/vanhoan310/bin
-
