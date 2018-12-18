@@ -38,7 +38,7 @@ https://github.com/vanhoan310/tips/wiki/Software-install
 https://github.com/vanhoan310/tips/wiki/Biology
 
 12. Pandas & Numpy
-https://github.com/vanhoan310/tips/wiki/Pandas
+https://github.com/vanhoan310/tips/wiki/Pandas_Numpy
 
 
 
