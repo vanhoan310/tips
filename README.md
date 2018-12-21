@@ -40,6 +40,9 @@ https://github.com/vanhoan310/tips/wiki/Biology
 12. Pandas & Numpy
 https://github.com/vanhoan310/tips/wiki/Pandas_Numpy
 
+13. GitHub: Add existing project to Github: 
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
 
 
 
