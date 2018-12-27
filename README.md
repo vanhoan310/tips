@@ -1,5 +1,7 @@
 # Contains the collections of software tips & usage. 
 
+A. REsearch
+
 1. Screen
 https://github.com/vanhoan310/tips/wiki/Screen
 
@@ -15,8 +17,8 @@ https://github.com/vanhoan310/tips/wiki/Python
 5. R
 https://github.com/vanhoan310/tips/wiki/R
 
-6. Delete Fedora cache
-https://unix.stackexchange.com/questions/265755/fedora-23-can-i-safely-delete-files-in-var-cache-packagekit-metadata-updates
+6. C++
+https://github.com/vanhoan310/tips/wiki/Cpp
 
 6. Documentation samples
 https://github.com/pachterlab/PROBer#example
@@ -28,6 +30,21 @@ https://www.techjunkie.com/samsung-galaxy-j7-problems-with-sound-solved/
 Settings -> Printers -> Unlock -> Add -> Enter IP address (10.163.247.61) <br>
 Go to Print Settings -> Set new printer as default. Done!
 
+9. CPLEX
+https://github.com/vanhoan310/tips/wiki/CPLEX
 
-/home/vanhoan310/anaconda2/bin:/home/vanhoan310/anaconda2/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/home/vanhoan310/.local/bin:/home/vanhoan310/bin
+10. Software install
+https://github.com/vanhoan310/tips/wiki/Software-install
+
+11. Biology
+https://github.com/vanhoan310/tips/wiki/Biology
+
+12. Pandas & Numpy
+https://github.com/vanhoan310/tips/wiki/Pandas_Numpy
+
+13. GitHub: Add existing project to Github: 
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+
 
