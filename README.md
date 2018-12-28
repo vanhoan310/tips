@@ -1,5 +1,7 @@
 # Contains the collections of software tips & usage. 
 
+https://www.python-course.eu/python3_properties.php
+
 A. REsearch
 
 1. Screen
