@@ -56,6 +56,7 @@ https://github.com/vanhoan310/tips/wiki/Recomb2019
 15. Matplotlib
 https://github.com/vanhoan310/tips/wiki/Matplot
 
-
+16.__SC_datasets__
+https://hemberg-lab.github.io/scRNA.seq.datasets/
 
 
