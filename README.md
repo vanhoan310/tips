@@ -2,7 +2,8 @@
 
 https://www.python-course.eu/python3_properties.php
 
-A. REsearch
+0. PHD survival 
+
 
 1. Screen
 https://github.com/vanhoan310/tips/wiki/Screen
