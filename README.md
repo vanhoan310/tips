@@ -1,9 +1,7 @@
 # Contains the collections of software tips & usage. 
 
-https://www.python-course.eu/python3_properties.php
-
 0. PHD survival 
-
+https://github.com/vanhoan310/tips/wiki/phd_dead_or_alive
 
 1. Screen
 https://github.com/vanhoan310/tips/wiki/Screen
