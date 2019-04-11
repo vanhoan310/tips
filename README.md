@@ -27,9 +27,14 @@ https://github.com/pachterlab/PROBer#example
 7. My phone
 https://www.techjunkie.com/samsung-galaxy-j7-problems-with-sound-solved/
 
-8. Printing Fedora.
+8. Printing. <br>
+Fedora <br>
 Settings -> Printers -> Unlock -> Add -> Enter IP address (10.163.247.61) <br>
 Go to Print Settings -> Set new printer as default. Done!
+
+May in <br>
+pass: 71020 <br>
+pale (1,2 -> 1,2 (chuc nang thu 2)), dat giay nam ngang
 
 9. CPLEX
 https://github.com/vanhoan310/tips/wiki/CPLEX
