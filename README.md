@@ -56,13 +56,13 @@ https://github.com/vanhoan310/tips/wiki/ML
 15. Recomb 2019
 https://github.com/vanhoan310/tips/wiki/Recomb2019
 
-15. Matplotlib
+16. Matplotlib
 https://github.com/vanhoan310/tips/wiki/Matplot
 
-16.__SC_datasets__
+17. __SC_datasets__
 https://hemberg-lab.github.io/scRNA.seq.datasets/
 
-17. Interesting papers/ knowledge
+18. Interesting papers/ knowledge
 https://github.com/vanhoan310/tips/wiki/Interesting-papers
 
 
