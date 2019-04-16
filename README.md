@@ -62,4 +62,7 @@ https://github.com/vanhoan310/tips/wiki/Matplot
 16.__SC_datasets__
 https://hemberg-lab.github.io/scRNA.seq.datasets/
 
+17. Interesting papers/ knowledge
+https://github.com/vanhoan310/tips/wiki/Interesting-papers
+
 
