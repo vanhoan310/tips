@@ -67,4 +67,6 @@ https://github.com/vanhoan310/tips/wiki/Interesting-papers
 
 19. Kate: setting for matlab editor http://wiki.octave.org/Kate
 
+20. Vim: https://github.com/vanhoan310/tips/wiki/VIM
+
 
