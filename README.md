@@ -69,4 +69,9 @@ https://github.com/vanhoan310/tips/wiki/Interesting-papers
 
 20. Vim: https://github.com/vanhoan310/tips/wiki/VIM
 
+21. igraph (R): https://github.com/vanhoan310/tips/wiki/igraph
+
+22. Interesting topics:
+https://github.com/vanhoan310/tips/wiki/Interesting_topics
+
 
