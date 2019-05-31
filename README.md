@@ -62,7 +62,7 @@ https://github.com/vanhoan310/tips/wiki/Matplot
 17. __SC_datasets__
 https://hemberg-lab.github.io/scRNA.seq.datasets/
 
-18. Interesting papers/ knowledge
+18. Interesting papers/ knowledges/ topics/ articles
 https://github.com/vanhoan310/tips/wiki/Interesting-papers
 
 19. Kate: setting for matlab editor http://wiki.octave.org/Kate
