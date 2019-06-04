@@ -65,5 +65,7 @@ https://github.com/vanhoan310/tips/wiki/Interesting-papers
 
 22. MATLAB https://github.com/vanhoan310/tips/wiki/MATLAB
 
+23. Pronounciation https://docs.google.com/document/d/1Hq3ENAF55gFhf20O9VJ7hl3_NDKU32lB6fC2xW6h5BI/edit#
+
 
 
